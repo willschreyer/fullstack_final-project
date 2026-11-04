@@ -7,3 +7,5 @@ Split between work:
 Frontend UI design, theme, CSS, HTML, and feature design
 
 Backend database integration, JavaScript, and hosting details (I would prefer to work on this)
+
+Threads: a user can create a new 'thread' with a topic, and any user can comment on that thread, and when someone clicks on the thread, then they would get all discussions under that post.
